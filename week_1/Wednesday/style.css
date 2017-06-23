@@ -1,0 +1,16 @@
+#main p {
+  display: inline-block;
+  width: 10px;
+}
+
+.content {
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+}
+
+.inner {
+  position: absolute;
+}
